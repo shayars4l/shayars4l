@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shayars4l
-- 👀 I’m interested in Software Engeneering 
+- 👀 I’m interested in Software Engineer 
 - 🌱 I’m currently learning React Native 
 - 💞️ I’m looking to collaborate on anything for me 
 - 📫 How to reach me {+447859276364} Whatsapp
